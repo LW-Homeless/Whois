@@ -25,3 +25,6 @@ pip install -r requirements.txt
 python Main.py
 ```
 * Por último, sigue las intruciones que te solicitará el programa. 
+
+# Video demostración 
+![alt text](https://github.com/LW-Homeless/Whois/blob/master/whois.gif)
